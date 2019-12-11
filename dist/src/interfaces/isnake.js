@@ -1,0 +1,1 @@
+//# sourceMappingURL=isnake.js.map
